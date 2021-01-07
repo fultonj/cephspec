@@ -1,0 +1,3 @@
+service_type: host
+addr: oc0-ceph-2
+hostname: oc0-ceph-2
