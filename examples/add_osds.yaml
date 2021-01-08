@@ -1,0 +1,8 @@
+service_type: osd
+service_id: default_drive_group
+placement:
+  hosts:
+    - oc0-ceph-1
+    - oc0-ceph-2
+data_devices:
+  all: true
